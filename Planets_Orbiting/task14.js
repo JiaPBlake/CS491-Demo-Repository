@@ -7,9 +7,9 @@
 function studentdata() {
 
     //*** TODO_A1_DONE : init the const variables below with your credentials ***
-    const lastname = 'Blake';
-    const firstname = 'Joyce-Sofia (Jia)';
-    const studentnum = '31585309';
+    const lastname = 'Last Name';
+    const firstname = 'First Name';
+    const studentnum = 'StudentID';
 
     // don't change the lines below!
     document.getElementById("author").innerText = ("Author: ").concat(lastname, ", ", firstname, ", ", studentnum);
