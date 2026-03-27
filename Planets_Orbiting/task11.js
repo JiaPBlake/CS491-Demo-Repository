@@ -20,9 +20,9 @@ function a1LoadTask11WgslSource() {
 
 // ----------------------------------------------------------------------------
 //*** TODO_A1_DONE : Insert your credentials below ***
-var lastname = 'Blake';
-var firstname = 'Joyce-Sofia (Jia)';
-var studentnum = '31585309';
+var lastname = 'Last Name';
+var firstname = 'First Name';
+var studentnum = 'StudentID';
 // ----------------------------------------------------------------------------
 
 
